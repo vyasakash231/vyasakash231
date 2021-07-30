@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akash Vyas, currently I'm pursuing my PhD in Mechanical Specialized Robotics
+- 👋 Hi, I’m Akash Vyas, currently I'm pursuing my Masters in Mechanical Engineering
 - 👀 I’m interested in Robotics specially Medical & Rehablitation Robotics 
 - 🌱 I’m currently learning python & It's my first computer Language
 - 💞️ I’m looking to collaborate on projects related to robotics
